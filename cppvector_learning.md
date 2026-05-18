@@ -1,5 +1,5 @@
 使用 vector 前，需要包含头文件：
-#include <vector>
+#include<vector>
 
 创建 vector
 创建一个空 vector：
