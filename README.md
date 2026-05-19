@@ -1,2 +1,2 @@
 # problemset
-oj
+# some small detals maybe
