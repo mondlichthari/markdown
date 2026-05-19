@@ -1,12 +1,12 @@
 使用 vector 前，需要包含头文件：
-#include<vector>
+# include<vector>
 
 创建 vector
 创建一个空 vector：
 std::vector<int>vec;
 即vector<数据类型>数组名称；
 
-#**动态：**
+# **动态：**
 
 使用 push_back() 向尾部添加元素：
 vec.push_back(100);
@@ -26,7 +26,7 @@ vec.at()会检查是否越界，安全
 清空所有元素且释放内存，用vector<数据类型>().swap(数组名称)，
 例如vector<int>().swap(vec)
 
-#**静态：**
+# **静态：**
 创建一个空 vector：
 std::vector<int>vec;
 
